@@ -1196,7 +1196,7 @@ To,Al,module,Magento_Bundle
 "Go back to product details","Torna alla scheda prodotto",module,Magento_Bundle
 "Customize and Add to Cart","Personalizza e Aggiungi al carrello",module,Magento_Bundle
 "* Required Fields","* Campi obbligatori",module,Magento_Bundle
-"Your Customization","La tua personalizzazione",module,Magento_Bundle
+"Your Customization","Inserisci la quantità dei Cabochon personalizzati che desideri e aggiungi al carrello",module,Magento_Bundle
 Availability,Disponibilita',module,Magento_Bundle
 "In stock",Disponibile,module,Magento_Bundle
 "Out of stock","Non Disponibile",module,Magento_Bundle
