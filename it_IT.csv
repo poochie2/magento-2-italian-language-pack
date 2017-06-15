@@ -1987,7 +1987,7 @@ System,Sistema,module,Magento_Catalog
 Enable,Attiva,module,Magento_Catalog
 Disable,Disattiva,module,Magento_Catalog
 "Update attributes","Aggiorna gli attributi",module,Magento_Catalog
-none,nessuno,module,Magento_Catalog
+none,none,module,Magento_Catalog
 Overview,Anteprima,module,Magento_Catalog
 Details,Dettagli,module,Magento_Catalog
 "Edit Event","Modifica evento",module,Magento_CatalogEvent
